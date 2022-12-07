@@ -59,7 +59,7 @@
     "webpack-split-by-path": "0.1.0-beta.1"
   },
   "dependencies": {
-    "express": "^4.15.3",
+    "express": "^4.18.2",
     "prop-types": "^15.5.10",
     "react": "^15.6.1",
     "react-dom": "^15.6.1",
